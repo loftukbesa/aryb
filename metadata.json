@@ -1,0 +1,5 @@
+{
+  "name": "Hemşire Kura",
+  "description": "Nurses' utility app for randomly assigning patients or shifts, featuring AI-powered daily encouragement.",
+  "requestFramePermissions": []
+}
